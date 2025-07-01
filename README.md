@@ -1,8 +1,3 @@
-Your redesigned `README.md` is already well-structured and informative, but I’ve improved the design further for better readability, visual appeal, and professionalism. Here's a more polished version:
-
----
-
-````markdown
 # 🚆 Train Ticket Reservation System  
 **Java Servlets + PostgreSQL | Apache Tomcat 9.0.99**
 
@@ -12,7 +7,7 @@ A full-stack **Train Ticket Booking Web Application** developed using **Java Ser
 
 ## 🔑 System Roles & Core Features
 
-### 👨‍💼 Admin Panel  
+## 👨‍💼 Admin Panel  
 > ⚠️ *Admin must be manually added to the database.*
 
 **Key Capabilities:**
