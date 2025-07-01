@@ -98,13 +98,13 @@ A full-stack **Train Ticket Booking Web Application** developed using **Java Ser
 TrainTicketReservation/
 │
 ├── src/
-│   ├── admin/              # Admin servlet files
-│   ├── user/               # User servlet files
-│   └── db/                 # Database connection logic
+│   ├── com/             
+│         ├── TrainReservation/               # servlet files
+│         └── util/                 # Database connection logic
 │
 ├── WebContent/
-│   ├── HTML, JSPs          # Frontend interface
-│   └── WEB-INF/            # Deployment descriptor
+│   ├── HTML          # Frontend interface
+│   └── WEB-INF/      # JDBC Driver
 │
 ├── Schemas.txt             # SQL schema scripts
 └── README.md
