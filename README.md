@@ -195,8 +195,11 @@ TrainTicketReservation/
 # 📄 **License**
 
 This project is for **educational/demo use** only.
+
+---
+
 Project Display & Design
-https://www.linkedin.com/posts/haris-khatti-a97526208_springboot-java-crud-activity-7415660669607407616-JD4u?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADTCTJMBv8q87zxxtoJJFTgsahG5nt784QE
+https://fs.blabigo.org/s/lb6Qam4t
 ---
 
 If you want, I can also:
