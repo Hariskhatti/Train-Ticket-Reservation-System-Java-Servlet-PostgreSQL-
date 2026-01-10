@@ -199,7 +199,6 @@ This project is for **educational/demo use** only.
 ---
 
 Project Display & Design
-https://fs.blabigo.org/s/lb6Qam4t
 ---
 
 If you want, I can also:
