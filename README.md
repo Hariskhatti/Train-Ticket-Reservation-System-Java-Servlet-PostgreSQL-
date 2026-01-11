@@ -200,10 +200,3 @@ This project is for **educational/demo use** only.
 
 Project Display & Design
 ---
-
-If you want, I can also:
-
-✅ generate a **README banner image**
-✅ create **UI mockups**
-✅ produce a **downloadable README.md file**
-— just say **"README file generate kr do"**.
